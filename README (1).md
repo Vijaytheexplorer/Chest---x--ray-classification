@@ -28,5 +28,4 @@ Developed an advanced deep learning model using TensorFlow for the classificatio
 # Conclusion:
 * This GitHub repository serves as a detailed showcase of expertise in deep learning, medical image analysis, and the application of advanced neural network architectures to solve real-world healthcare challenges.
 
-![www](https://github.com/rajeshsingh123/Chest-X-ray-Classification-/assets/100190385/78898c76-cc34-42a3-a6a9-162c5427c5e1)
 
